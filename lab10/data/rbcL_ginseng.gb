@@ -1,0 +1,67 @@
+LOCUS       HM142229                 915 bp    DNA     linear   PLN 25-JUL-2016
+DEFINITION  Panax ginseng isolate Pgs0616* ribulose-1,5-bisphosphate
+            carboxylase/oxygenase large subunit (rbcL) gene, partial cds;
+            chloroplast.
+ACCESSION   HM142229
+VERSION     HM142229.1
+KEYWORDS    .
+SOURCE      chloroplast Panax ginseng (ginseng)
+  ORGANISM  Panax ginseng
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; asterids; campanulids; Apiales; Araliaceae; Panax.
+REFERENCE   1  (bases 1 to 915)
+  AUTHORS   Guo,H., Wang,W., Yang,N., Guo,B., Zhang,S., Yang,R., Yuan,Y.,
+            Yu,J., Hu,S., Sun,Q. and Yu,J.
+  TITLE     DNA barcoding provides distinction between Radix Astragali and its
+            adulterants
+  JOURNAL   Sci China Life Sci 53 (8), 992-999 (2010)
+   PUBMED   20821298
+REFERENCE   2  (bases 1 to 915)
+  AUTHORS   Guo,H., Wang,W., Yang,N., Guo,B., Zhang,S., Yang,R., Yuan,Y.,
+            Yu,J., Hu,S., Sun,Q. and Yu,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2010) School of Traditional Chinese Materia
+            Medica, Shenyang Pharmaceutical University, No 103 Wenhualu Road,
+            Shenyang, Liaoning 110016, China
+FEATURES             Location/Qualifiers
+     source          1..915
+                     /organism="Panax ginseng"
+                     /organelle="plastid:chloroplast"
+                     /mol_type="genomic DNA"
+                     /isolate="Pgs0616*"
+                     /db_xref="taxon:4054"
+     gene            <1..>915
+                     /gene="rbcL"
+     CDS             <1..>915
+                     /gene="rbcL"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ribulose-1,5-bisphosphate carboxylase/oxygenase
+                     large subunit"
+                     /protein_id="ADO01506.1"
+                     /translation="KIEPVAGEETQFIAYVAYPLDLFEEGSVTNMFTSIVGNVFGFKA
+                     LRALRLEDLRIPVAYVKTFQGPPHGIQVERDKLNKYGRPLLGCTIKPKLGLSAKNYGR
+                     AVYECLRGGLDFTKDDENVNSQPFMRWRDRFLFCAEALYKAQAETGEIKGHYLNATAG
+                     TCEDMMKRAVFARELGVPIVMHDYITGGFTANTTLAHYCRDNGLLLHIHRAMHAVIDR
+                     QKNHGMHFRVLAKALRMSGGDHIHSGTVVGKLEGERDITLGFVDLLRDDFIEKDRSRG
+                     IYFTQDWVSLPGVLPVASGGIHVWHMPAL"
+ORIGIN      
+        1 aaaatagagc ccgttgctgg agaagaaact caatttattg cttatgtagc ttacccatta
+       61 gacctttttg aagaaggttc tgttactaac atgtttactt ccattgtagg taatgtattt
+      121 gggttcaaag ccctgcgtgc tctacgtctg gaagatctgc gaatccctgt tgcttatgtt
+      181 aaaactttcc aaggcccgcc tcatggcatc caagttgaga gagataaatt gaacaagtat
+      241 ggtcgtcccc tgttgggatg tactattaaa cctaaattgg ggttatctgc taaaaactac
+      301 ggtagagcgg tttatgaatg tctccggggt ggacttgatt ttaccaaaga cgatgagaac
+      361 gtgaactcac aaccatttat gcgttggaga gatcgtttct tattttgtgc cgaagcactt
+      421 tataaagcac aggctgaaac aggtgaaatc aaagggcatt acttgaatgc tactgcgggt
+      481 acatgcgaag acatgatgaa aagggctgta tttgccagag aattgggagt tcctatcgta
+      541 atgcatgatt acataacagg gggattcacc gcaaatacta ccttggctca ttattgccga
+      601 gataatggcc tacttcttca catccaccgc gcaatgcatg cagttattga tagacagaag
+      661 aatcatggta tgcactttcg tgtactagct aaagcgttac gtatgtctgg tggagatcat
+      721 attcactccg gtaccgtagt aggtaaactt gaaggggaaa gagacatcac tttgggcttt
+      781 gttgatttac tgcgtgatga tttcattgaa aaagatcgaa gtcgcggtat ttatttcacc
+      841 caagattggg tctctctacc aggtgttctg cccgtggctt cggggggtat tcacgtttgg
+      901 catatgcctg ctctg
+//
+
